@@ -14,3 +14,13 @@ Below are the class diagrams for the system currently in place and the system be
 [Class Diagram Images]
 ##Use Cases
 [Flow charts with description and example code for every use case]
+
+(1) Ezreal
+
+(2) Evelynn
+
+(3) Nunu
+
+(4)
+
+(5)
