@@ -21,6 +21,6 @@ Below are the class diagrams for the system currently in place and the system be
 
 (3) Nunu
 
-(4)
+(4) Katarina
 
-(5)
+(5) Singed
