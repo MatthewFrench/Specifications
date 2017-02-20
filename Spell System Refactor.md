@@ -13,7 +13,9 @@ When you cast a spell, it may only create new projectiles but the spell is still
 Plan of action:
 
 (1) Create onActivate and onDeactivate functions for spell scripts
+
 (2) Create StatModifier class for being able to easily track and modify stat attributes from spells
+
 (3) Create Buff list on Champion class, setup Buffs to behave the nearly the same as spells and allows spells to add Buffs to champions.(edited)
 
 That should be enough to enable most spells and buffs.(edited)
